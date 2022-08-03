@@ -1,9 +1,6 @@
-### MACS-36000 "Computational Methods Using Online Social Media Data" Final Project
-
-Please upload your slides, shared link to your recording, code, and final report to your GitHub classroom (here), name it as **36000_YourFirstLastName**.
-
-Please upload the shared **link** to your recording here: 
-https://drive.google.com/file/d/1vint2w9IfcJX7rBJnth7o4uEzgPAk_6O/view?usp=sharing
+# Use Investor Sentiment to Predict Future Price Movement in the US Stock Market Based on Financial Social Media Platform
+ 
+Project Video: https://drive.google.com/file/d/1vint2w9IfcJX7rBJnth7o4uEzgPAk_6O/view?usp=sharing
 
 ----------------------
 ### Code:
